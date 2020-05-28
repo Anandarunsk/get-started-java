@@ -1,7 +1,7 @@
 ---
 applications:
  - name: GetStartedJava
-   random-route: true
+   random-route: http://localhost:8080/GetStartedJava
    path: target/GetStartedJava.war
    memory: 256M
    instances: 1
